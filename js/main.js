@@ -64,9 +64,27 @@ $('.owl-carousel').owlCarousel({
 //     console.log(binary(0));
 // }
 // {
+//     //  4 masala
+//     function card(num, bool){
+//         if (bool === false) {
+//                     num = num.slice(0, 4) + "*******" ;
+//                     return num
+//                   }else{
+//                     return num
+//                   }
+                
+//                 }
+//                 console.log(card("8600 0465 8765 0843", false));
+//                 console.log(card("8600 0465 8765 0843", true));
+//     }
+
+// {
 //     //  5masala
 //     function foo(str){
 //         return `${str === "123456hello"}`
 //     }
 //     console.log(foo(("123456")));
 // }
+{
+    // 6masal
+}
